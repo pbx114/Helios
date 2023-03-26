@@ -226,3 +226,16 @@ header{
     bottom: 20px;
     right: 10px;
 }
+
+#product1 .pro .fa-sharp:hover{
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 50px;
+    background-color: #cad4cb ;
+    color: #07655f ;
+    border: 1px solid #cce7d0;
+    position: absolute;
+    bottom: 20px;
+    right: 10px;
+}
